@@ -132,4 +132,4 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
