@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+wheels/
+*.egg-info/
+
+# PyInstaller
+**/__pycache__
+*.spec
+sl3.app/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+logs/
+*.log
+
+# Data files
+data/
+
+# Temp files
+*.tmp
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+*~
