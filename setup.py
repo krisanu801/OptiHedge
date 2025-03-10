@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="sl3",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Krisanu801",
+    author_email="krisanusarkar03@gmail.com",
     description="AI-Driven Hedge Fund Simulator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/sl3",  # Replace with your repository URL
+    url="https://github.com/Krisanu801/OptiHedge", 
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
@@ -44,7 +44,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'sl3=main:main',  # If you want to create a command-line tool
+            'OptiHedge=main:main',  # If you want to create a command-line tool
         ],
     },
 )
