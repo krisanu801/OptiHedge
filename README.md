@@ -16,7 +16,7 @@ OptiHedge is an AI-driven hedge fund simulator built using Python, focusing on q
     - Trend-Following
 - **Backtesting:** Simulates trades over historical data, avoiding lookahead bias and considering transaction costs.
 - **Performance Evaluation:** Evaluates strategy performance using metrics like CAGR, Sharpe ratio, Sortino ratio, alpha, beta, and max drawdown.
-- **AI-Driven Optimization (Optional):** Integrates a reinforcement learning model (DQN/PPO) to dynamically adjust portfolio allocations.
+- **AI-Driven Optimization:** Integrates a reinforcement learning model (DQN/PPO) to dynamically adjust portfolio allocations.
 - **Web Dashboard:** Features a web dashboard (Streamlit/Dash) for live tracking of portfolio performance.
 
 ## Project Structure
