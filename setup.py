@@ -52,5 +52,5 @@ setup(
 # Example Usage:
 # 1.  Create a setup.py file in the root directory of your project.
 # 2.  Run `python setup.py sdist bdist_wheel` to build the package.
-# 3.  Run `pip install dist/sl3-0.1.0-py3-none-any.whl` to install the package.
-# 4.  Run `sl3` from the command line (if you defined an entry point).
+# 3.  Run `pip install dist/OptiHedge-0.1.0-py3-none-any.whl` to install the package.
+# 4.  Run `OptiHedge` from the command line (if you defined an entry point).
